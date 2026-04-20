@@ -1,4 +1,4 @@
-# Expense-Tracker-CLI
+# Expense-Tracker
 # 💰 Expense Tracker CLI
 
 A simple and powerful **Command Line Expense Tracker** built with Python.
