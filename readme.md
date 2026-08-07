@@ -3,7 +3,7 @@
 
 A simple and powerful **Command Line Expense Tracker** built with Python.
 Track your income and expenses, generate monthly summaries, export data, and visualize spending — all from the terminal.
-
+huuu
 ---
 
 ## 🚀 Features
